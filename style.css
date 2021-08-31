@@ -1,0 +1,9 @@
+body{
+  background: #DAC4F7;
+background: -moz-linear-gradient(top, #DAC4F7 0%, #FFADAD 43%, #FFD6A5 100%);
+background: -webkit-linear-gradient(top, #DAC4F7 0%, #FFADAD 43%, #FFD6A5 100%);
+background: linear-gradient(to bottom, #DAC4F7 0%, #FFADAD 43%, #FFD6A5 100%);
+}
+h1{
+  font-family: 'Trebuchet MS'; 
+}
